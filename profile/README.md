@@ -16,7 +16,7 @@ We operate at two levels: we build production applications for specialized indus
 
 ## Our Products
 
-### 🧬 PaleoBond — Molecular Generation Platform
+### 🧬 Petra — Molecular Generation Platform
 
 An AI-driven molecular design system for paleontological and materials preservation. PaleoBond uses a 17-tool agent system built on the Claude Agent SDK to generate novel molecular compounds optimized for specific preservation targets — from hydrophane opal stabilization to pyrite disease prevention. The platform combines a React frontend with Three.js molecular visualization, a FastAPI backend with RDKit cheminformatics, and a Rust-based high-performance molecular scorer.
 
@@ -28,11 +28,10 @@ An intelligent cannabis cultivation platform powered by multi-model AI and RAG-e
 
 **Stack:** React · Express · LangChain · Grok · Claude · Gemini · pgvector · Stripe
 
-### ⬡ Felix Agent SDK — Multi-Agent Orchestration Framework
+### 🧠 Mnemonic — Local-First Semantic Memory System
+Our flagship open-source project. Mnemonic is a local-first, air-gapped memory daemon that learns and organizes knowledge through biologically-inspired cognitive processes. It runs 8 cognitive agents — perception, encoding, episoding, consolidation, retrieval, metacognition, dreaming, and abstraction — coordinated by an autonomous orchestrator and event-driven reactor. The system watches your filesystem, terminal, and clipboard, automatically building an association graph where memories become patterns, patterns become principles, and principles become axioms. Exposes 13 MCP tools for seamless integration with AI agents like Claude Code.
 
-Our flagship open-source project. Felix is a Python SDK for building multi-agent AI systems that progressively converge from broad exploration to focused synthesis. It introduces helical geometry as a first-class orchestration primitive — agents move along a 3D helix where position determines behavior, coordinated through a hub-spoke communication hub at O(N) efficiency. Provider-agnostic: works with Anthropic, OpenAI, local models, and cloud platforms.
-
-**Stack:** Python · Provider-agnostic (Anthropic, OpenAI, LM Studio, Ollama, Bedrock, Vertex)
+**Stack:** Go · SQLite (FTS5 + vector search) · LM Studio · Gemini · D3.js · MCP
 
 ## Open Source
 
