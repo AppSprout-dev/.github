@@ -42,7 +42,7 @@ Our flagship open-source project. Mnemonic is a local-first, air-gapped memory d
 
 ## Get in Touch
 
-For consulting inquiries, partnerships, or collaboration opportunities — **team@appsprout.com**
+For consulting inquiries, partnerships, or collaboration opportunities — **hello@appsprout.dev**
 
 ---
 
