@@ -38,6 +38,7 @@ Our flagship open-source project. Mnemonic is a local-first, air-gapped memory d
 | Repository | Description | |
 |:-----------|:------------|:--|
 | **[felix-agent-sdk](https://github.com/AppSprout-dev/felix-agent-sdk)** | Helical multi-agent orchestration framework | ![Beta](https://img.shields.io/badge/status-beta-blue) |
+| **[mnemonic](https://github.com/AppSprout-dev/mnemonic)** | Local-First Semantic Memory System | ![Beta](https://img.shields.io/badge/status-beta-blue) |
 
 ## Get in Touch
 
